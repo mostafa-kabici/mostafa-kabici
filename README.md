@@ -19,6 +19,7 @@ On a journey to become a <b>Business Consultant & Future CEO</b> 🏢✨</p>
 
 <h3>📂 Current Focus</h3>
 <ul>
+  <li><b>Build strong CS foundation</b> → C++ , Problem Solving , OOP , Data Structure , Algorithms, Databases.</li>
   <li>🛠️ Practicing <b>Full Stack Development</b> skills as a strong technical base.</li>
 </ul>
 
@@ -26,7 +27,6 @@ On a journey to become a <b>Business Consultant & Future CEO</b> 🏢✨</p>
 
 <h3>🚀 Roadmap</h3>
 <ol>
-  <li><b>Build strong CS foundation</b> → C++ , Problem Solving , OOP , Data Structure , Algorithms, Databases.</li>
   <li><b>Full Stack Development</b> → Web apps with JS, Node.js, SQL.</li>
   <li><b>Project Management</b> → Agile, Scrum, business processes.</li>
   <li><b>Business Consulting</b> → Strategic problem-solving, freelancing.</li>
